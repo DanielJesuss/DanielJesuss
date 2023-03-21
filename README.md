@@ -1,7 +1,8 @@
 ## Olá!!    Eu sou Daniel Jesus
 
 🔭Hoje Trabalho com suporte de TI <br>
-🌱Hoje estou cursando Gestão de TI
+🌱Hoje estou cursando Gestão de TI <br>
+👨‍💻Estou aprendendo desenvolvimento web e programação
 
 <div align="center">
   <a href="https://github.com/DanielJesuss">
